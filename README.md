@@ -11,4 +11,4 @@ Consumo da API Pokedex com Javascript. O intuito era aprender a consumir uma API
 
 ### Links úteis: 
 - API: https://pokeapi.co/
-- Projeto online: https://arielpellegrino.github.io/PokeAPI/
+- Projeto online: https://arielpellegrino.github.io/ProjetoPokeAPI/
